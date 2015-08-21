@@ -2,7 +2,7 @@
 This tutorial demonstrate how to MKMap kit to show user current location using apple map.
 
 - Ask to use iPhone camera to take photo.<br><br>
-![Alt text](/Screenshots/user-location-1.jpg?raw=true "Permission to access camera")<br><br><br>
+![Alt text](/Screenshots/user-location-2.jpg?raw=true "Permission to access camera")<br><br><br>
 - User current location<br><br>
-![Alt text](/Screenshots/user-location-2.jpg?raw=true "User location")<br><br><br>
+![Alt text](/Screenshots/user-location-3.jpg?raw=true "User location")<br><br><br>
 
